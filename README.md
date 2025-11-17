@@ -20,6 +20,7 @@ The Gold layer is optimized for analytical queries and reporting. The dataset su
 
 
 **Architecture Structure**
+
 Source Systems  
       ↓  
 Bronze Layer  (Raw Data)  
